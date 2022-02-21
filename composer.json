@@ -27,7 +27,7 @@
   },
   "require":{
     "php":"^5.4|^7.0|^8.0",
-    "contao/core":"4.*",
+    "contao/core-bundle":"4.*",
     "facebook/graph-sdk": ">=4.0",
     "guzzlehttp/guzzle": ">=5.0"
   },
